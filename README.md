@@ -1,13 +1,18 @@
-# Simple Book Project
+# Evershop site manual testing
 
-Feature: Search and order a book
-Testing Scope: API Testing
+Feature:
+
+    - Search a product
+    - Add to cart
+    - Verify the cart
+
+Testing Scope: UI, API Testing
 
 ## Author
 - [@sakib](https://github.com/thesakib2020)
 
 ## Project
-We have a library which holds a few fiction and non-fiction books. This API allows you to reserve a book.
+
 
 ## Clone Locally
 ```bash
