@@ -11,9 +11,10 @@ Testing Scope: UI, API Testing
 - [Mohammad Sakib Ahsan](https://github.com/thesakib2020)
 
 ## Project
-This is a e-commerce site that is built with the intention of being buggy. The testing process covers all the bugs found in UI testing. Some APIs have been tested as well.
+This is an e-commerce site that is built with the intention of being buggy. The testing process covers all the bugs found in UI testing. Some APIs have been tested as well.
 
 ## How to test
+* Clone the repo.
 * Open the Test_Cases_Bugs excel file.
 * Execute the test cases manually on by one. 
 * When a certain test case fail, associated bug can be found in Bug Track tab.
