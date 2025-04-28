@@ -8,7 +8,7 @@ Feature:
 Testing Scope: UI, API Testing
 
 ## Author
-- [@sakib](https://github.com/thesakib2020)
+- [Mohammad Sakib Ahsan](https://github.com/thesakib2020)
 
 ## Project
 This is a e-commerce site that is built with the intention of being buggy. The testing process covers all the bugs found in UI testing. Some APIs have been tested as well.
